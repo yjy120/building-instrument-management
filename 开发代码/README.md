@@ -46,10 +46,10 @@
 
 | 账号 | 密码 | 角色 |
 |------|------|------|
-| admin | admin123 | 设备管理员 |
-| manager | manager123 | 试验室主管 |
-| tester1 | tester123 | 项目检测员 |
-| tester2 | tester123 | 项目检测员 |
+| admin | YOUR_ADMIN_PASSWORD | 设备管理员 |
+| manager | YOUR_MANAGER_PASSWORD | 试验室主管 |
+| tester1 | YOUR_TESTER_PASSWORD | 项目检测员 |
+| tester2 | YOUR_TESTER_PASSWORD | 项目检测员 |
 
 ## 运行说明
 
